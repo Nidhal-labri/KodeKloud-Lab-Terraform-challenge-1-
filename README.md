@@ -31,7 +31,7 @@ In this challenge, we install and configure Terraform, then deploy several Kuber
 
 ---
 
-✅ ### **Step 2 – Configure Terraform and Provider Settings (`provider.tf`)**  
+### ** ✅ Step 2 – Configure Terraform and Provider Settings (`provider.tf`)**  
 
 1. **Create the provider configuration file**:  
    ```bash
@@ -61,7 +61,7 @@ In this challenge, we install and configure Terraform, then deploy several Kuber
 
 ---
 
-✅ ### **Step 3 – Create Terraform Resources**  
+### ** ✅ Step 3 – Create Terraform Resources**  
 
 #### 1. **Kubernetes Service (`webapp-service.tf`)**  
 ```hcl
@@ -121,7 +121,7 @@ resource "kubernetes_deployment" "frontend" {
 
 ---
 
-✅ ### **Step 4 – Deploy and Verify**  
+### ** ✅ Step 4 – Deploy and Verify**  
 
 1. **Apply the Terraform configuration**:  
    ```bash
