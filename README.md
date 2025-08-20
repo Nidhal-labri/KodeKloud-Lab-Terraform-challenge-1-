@@ -1,6 +1,5 @@
 # 🚀 KodeKloud Lab – Terraform Challenge 1  
 
-**Brief Description**  
 This repository contains the solution for **KodeKloud Terraform Challenge 1**.  
 In this challenge, we install and configure Terraform, then deploy several Kubernetes resources (a Deployment and a Service) using Infrastructure as Code (IaC).  
 
