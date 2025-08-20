@@ -35,6 +35,7 @@ In this challenge, we install and configure Terraform, then deploy several Kuber
 
 1. **Create the provider configuration file**:  
    ```bash
+   cd /root/terraform_challenge
    vi provider.tf
    ```
 
