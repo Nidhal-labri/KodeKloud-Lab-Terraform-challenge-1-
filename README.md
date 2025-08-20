@@ -14,7 +14,7 @@ In this challenge, we install and configure Terraform, then deploy several Kuber
 
 ## 🛠️ Deployment Steps  
 
-### **Step 1 – Install Terraform (v1.1.5) on the Controlplane**  
+✅ ### **Step 1 – Install Terraform (v1.1.5) on the Controlplane**  
 
 1. **Check if Terraform is installed**:  
    ```bash
@@ -32,7 +32,7 @@ In this challenge, we install and configure Terraform, then deploy several Kuber
 
 ---
 
-### **Step 2 – Configure Terraform and Provider Settings (`provider.tf`)**  
+✅ ### **Step 2 – Configure Terraform and Provider Settings (`provider.tf`)**  
 
 1. **Create the provider configuration file**:  
    ```bash
@@ -62,7 +62,7 @@ In this challenge, we install and configure Terraform, then deploy several Kuber
 
 ---
 
-### **Step 3 – Create Terraform Resources**  
+✅ ### **Step 3 – Create Terraform Resources**  
 
 #### 1. **Kubernetes Service (`webapp-service.tf`)**  
 ```hcl
@@ -122,7 +122,7 @@ resource "kubernetes_deployment" "frontend" {
 
 ---
 
-### **Step 4 – Deploy and Verify**  
+✅ ### **Step 4 – Deploy and Verify**  
 
 1. **Apply the Terraform configuration**:  
    ```bash
