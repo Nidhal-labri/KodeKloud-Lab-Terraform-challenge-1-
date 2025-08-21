@@ -137,9 +137,9 @@ resource "kubernetes_deployment" "frontend" {
 
 3. *(Or click the lab’s check button to validate your solution!)*  
 
-🎉 Congratulations – your Kubernetes resources are now deployed via Terraform!  
-
 <img width="1919" height="814" alt="2" src="https://github.com/user-attachments/assets/1f3ed5a4-91ca-43d9-96e0-2857900c0c9b" />
+
+**🎉 Congratulations -- We have successfully completed Terraform Challenge 1 !**
 
 ---
 
